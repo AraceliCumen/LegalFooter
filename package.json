@@ -1,0 +1,19 @@
+{
+  "name": "legals",
+  "version": "1.0.0",
+  "description": "for update legales Credit Card Carretera",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AraceliCumen/LegalFooter.git"
+  },
+  "author": "Araceli Cueva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AraceliCumen/LegalFooter/issues"
+  },
+  "homepage": "https://github.com/AraceliCumen/LegalFooter#readme"
+}
