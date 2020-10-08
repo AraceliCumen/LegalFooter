@@ -1,6 +1,6 @@
 {
-  "name": "legals",
-  "version": "1.0.0",
+  "name": "legals-footer",
+  "version": "1.2.4",
   "description": "for update legales Credit Card Carretera",
   "main": "index.js",
   "scripts": {
